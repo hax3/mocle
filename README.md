@@ -1,2 +1,2 @@
 # mocle
-mobile cloud technology 
+mobile cloud technology class
